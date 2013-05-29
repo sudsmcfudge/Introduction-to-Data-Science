@@ -1,2 +1,8 @@
 # ignore emacs backups
 *~
+*.pyc
+*.dat
+*.db
+*.txt
+*.num
+*.json
